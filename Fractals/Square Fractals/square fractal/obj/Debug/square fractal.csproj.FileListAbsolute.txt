@@ -1,0 +1,20 @@
+C:\Users\Jellybeanci\source\repos\square fractal\square fractal\bin\Debug\square fractal.exe.config
+C:\Users\Jellybeanci\source\repos\square fractal\square fractal\bin\Debug\square fractal.exe
+C:\Users\Jellybeanci\source\repos\square fractal\square fractal\bin\Debug\square fractal.pdb
+C:\Users\Jellybeanci\source\repos\square fractal\square fractal\obj\Debug\square fractal.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\square fractal\square fractal\obj\Debug\square_fractal.Form1.resources
+C:\Users\Jellybeanci\source\repos\square fractal\square fractal\obj\Debug\square_fractal.Properties.Resources.resources
+C:\Users\Jellybeanci\source\repos\square fractal\square fractal\obj\Debug\square fractal.csproj.GenerateResource.cache
+C:\Users\Jellybeanci\source\repos\square fractal\square fractal\obj\Debug\square fractal.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\square fractal\square fractal\obj\Debug\square fractal.exe
+C:\Users\Jellybeanci\source\repos\square fractal\square fractal\obj\Debug\square fractal.pdb
+C:\Users\Jellybeanci\source\repos\Square Fractals\square fractal\bin\Debug\square fractal.exe.config
+C:\Users\Jellybeanci\source\repos\Square Fractals\square fractal\bin\Debug\square fractal.exe
+C:\Users\Jellybeanci\source\repos\Square Fractals\square fractal\bin\Debug\square fractal.pdb
+C:\Users\Jellybeanci\source\repos\Square Fractals\square fractal\obj\Debug\square fractal.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\Square Fractals\square fractal\obj\Debug\square_fractal.Form1.resources
+C:\Users\Jellybeanci\source\repos\Square Fractals\square fractal\obj\Debug\square_fractal.Properties.Resources.resources
+C:\Users\Jellybeanci\source\repos\Square Fractals\square fractal\obj\Debug\square fractal.csproj.GenerateResource.cache
+C:\Users\Jellybeanci\source\repos\Square Fractals\square fractal\obj\Debug\square fractal.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\Square Fractals\square fractal\obj\Debug\square fractal.exe
+C:\Users\Jellybeanci\source\repos\Square Fractals\square fractal\obj\Debug\square fractal.pdb

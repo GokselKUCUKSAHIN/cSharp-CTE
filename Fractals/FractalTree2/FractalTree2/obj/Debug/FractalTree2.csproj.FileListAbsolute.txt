@@ -1,0 +1,10 @@
+C:\Users\Jellybeanci\source\repos\FractalTree2\FractalTree2\bin\Debug\FractalTree2.exe.config
+C:\Users\Jellybeanci\source\repos\FractalTree2\FractalTree2\bin\Debug\FractalTree2.exe
+C:\Users\Jellybeanci\source\repos\FractalTree2\FractalTree2\bin\Debug\FractalTree2.pdb
+C:\Users\Jellybeanci\source\repos\FractalTree2\FractalTree2\obj\Debug\FractalTree2.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\FractalTree2\FractalTree2\obj\Debug\FractalTree2.Form1.resources
+C:\Users\Jellybeanci\source\repos\FractalTree2\FractalTree2\obj\Debug\FractalTree2.Properties.Resources.resources
+C:\Users\Jellybeanci\source\repos\FractalTree2\FractalTree2\obj\Debug\FractalTree2.csproj.GenerateResource.cache
+C:\Users\Jellybeanci\source\repos\FractalTree2\FractalTree2\obj\Debug\FractalTree2.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\FractalTree2\FractalTree2\obj\Debug\FractalTree2.exe
+C:\Users\Jellybeanci\source\repos\FractalTree2\FractalTree2\obj\Debug\FractalTree2.pdb

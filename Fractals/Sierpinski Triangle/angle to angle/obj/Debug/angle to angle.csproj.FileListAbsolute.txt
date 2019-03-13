@@ -1,0 +1,20 @@
+C:\Users\Jellybeanci\source\repos\angle to angle\angle to angle\bin\Debug\angle to angle.exe.config
+C:\Users\Jellybeanci\source\repos\angle to angle\angle to angle\bin\Debug\angle to angle.exe
+C:\Users\Jellybeanci\source\repos\angle to angle\angle to angle\bin\Debug\angle to angle.pdb
+C:\Users\Jellybeanci\source\repos\angle to angle\angle to angle\obj\Debug\angle to angle.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\angle to angle\angle to angle\obj\Debug\angle_to_angle.Form1.resources
+C:\Users\Jellybeanci\source\repos\angle to angle\angle to angle\obj\Debug\angle_to_angle.Properties.Resources.resources
+C:\Users\Jellybeanci\source\repos\angle to angle\angle to angle\obj\Debug\angle to angle.csproj.GenerateResource.cache
+C:\Users\Jellybeanci\source\repos\angle to angle\angle to angle\obj\Debug\angle to angle.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\angle to angle\angle to angle\obj\Debug\angle to angle.exe
+C:\Users\Jellybeanci\source\repos\angle to angle\angle to angle\obj\Debug\angle to angle.pdb
+C:\Users\Jellybeanci\source\repos\sierpinski triangle c#\angle to angle\bin\Debug\angle to angle.exe.config
+C:\Users\Jellybeanci\source\repos\sierpinski triangle c#\angle to angle\bin\Debug\angle to angle.exe
+C:\Users\Jellybeanci\source\repos\sierpinski triangle c#\angle to angle\bin\Debug\angle to angle.pdb
+C:\Users\Jellybeanci\source\repos\sierpinski triangle c#\angle to angle\obj\Debug\angle to angle.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\sierpinski triangle c#\angle to angle\obj\Debug\angle_to_angle.Form1.resources
+C:\Users\Jellybeanci\source\repos\sierpinski triangle c#\angle to angle\obj\Debug\angle_to_angle.Properties.Resources.resources
+C:\Users\Jellybeanci\source\repos\sierpinski triangle c#\angle to angle\obj\Debug\angle to angle.csproj.GenerateResource.cache
+C:\Users\Jellybeanci\source\repos\sierpinski triangle c#\angle to angle\obj\Debug\angle to angle.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\sierpinski triangle c#\angle to angle\obj\Debug\angle to angle.exe
+C:\Users\Jellybeanci\source\repos\sierpinski triangle c#\angle to angle\obj\Debug\angle to angle.pdb
