@@ -1,0 +1,10 @@
+C:\Users\Jellybeanci\source\repos\Koch SnowFlake\Koch SnowFlake\bin\Debug\Koch SnowFlake.exe.config
+C:\Users\Jellybeanci\source\repos\Koch SnowFlake\Koch SnowFlake\bin\Debug\Koch SnowFlake.exe
+C:\Users\Jellybeanci\source\repos\Koch SnowFlake\Koch SnowFlake\bin\Debug\Koch SnowFlake.pdb
+C:\Users\Jellybeanci\source\repos\Koch SnowFlake\Koch SnowFlake\obj\Debug\Koch SnowFlake.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\Koch SnowFlake\Koch SnowFlake\obj\Debug\Koch_SnowFlake.Form1.resources
+C:\Users\Jellybeanci\source\repos\Koch SnowFlake\Koch SnowFlake\obj\Debug\Koch_SnowFlake.Properties.Resources.resources
+C:\Users\Jellybeanci\source\repos\Koch SnowFlake\Koch SnowFlake\obj\Debug\Koch SnowFlake.csproj.GenerateResource.cache
+C:\Users\Jellybeanci\source\repos\Koch SnowFlake\Koch SnowFlake\obj\Debug\Koch SnowFlake.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\Koch SnowFlake\Koch SnowFlake\obj\Debug\Koch SnowFlake.exe
+C:\Users\Jellybeanci\source\repos\Koch SnowFlake\Koch SnowFlake\obj\Debug\Koch SnowFlake.pdb
