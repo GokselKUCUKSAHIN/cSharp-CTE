@@ -1,0 +1,10 @@
+C:\ERU\Bilgisayar Programlama II\c#\CTE\Beep Son Of time\PlayToon\PlayToon\bin\Debug\PlayToon.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\CTE\Beep Son Of time\PlayToon\PlayToon\bin\Debug\PlayToon.exe
+C:\ERU\Bilgisayar Programlama II\c#\CTE\Beep Son Of time\PlayToon\PlayToon\bin\Debug\PlayToon.pdb
+C:\ERU\Bilgisayar Programlama II\c#\CTE\Beep Son Of time\PlayToon\PlayToon\obj\Debug\PlayToon.csprojResolveAssemblyReference.cache
+C:\ERU\Bilgisayar Programlama II\c#\CTE\Beep Son Of time\PlayToon\PlayToon\obj\Debug\PlayToon.Form1.resources
+C:\ERU\Bilgisayar Programlama II\c#\CTE\Beep Son Of time\PlayToon\PlayToon\obj\Debug\PlayToon.Properties.Resources.resources
+C:\ERU\Bilgisayar Programlama II\c#\CTE\Beep Son Of time\PlayToon\PlayToon\obj\Debug\PlayToon.csproj.GenerateResource.Cache
+C:\ERU\Bilgisayar Programlama II\c#\CTE\Beep Son Of time\PlayToon\PlayToon\obj\Debug\PlayToon.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\CTE\Beep Son Of time\PlayToon\PlayToon\obj\Debug\PlayToon.exe
+C:\ERU\Bilgisayar Programlama II\c#\CTE\Beep Son Of time\PlayToon\PlayToon\obj\Debug\PlayToon.pdb
