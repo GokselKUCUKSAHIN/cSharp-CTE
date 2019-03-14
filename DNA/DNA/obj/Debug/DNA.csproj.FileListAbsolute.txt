@@ -1,0 +1,7 @@
+C:\Users\Jellybeanci\source\repos\DNA\DNA\bin\Debug\DNA.exe.config
+C:\Users\Jellybeanci\source\repos\DNA\DNA\bin\Debug\DNA.exe
+C:\Users\Jellybeanci\source\repos\DNA\DNA\bin\Debug\DNA.pdb
+C:\Users\Jellybeanci\source\repos\DNA\DNA\obj\Debug\DNA.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\DNA\DNA\obj\Debug\DNA.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\DNA\DNA\obj\Debug\DNA.exe
+C:\Users\Jellybeanci\source\repos\DNA\DNA\obj\Debug\DNA.pdb
