@@ -1,0 +1,7 @@
+c:\users\gkucu\source\repos\Rand\Rand\bin\Debug\Rand.exe.config
+c:\users\gkucu\source\repos\Rand\Rand\bin\Debug\Rand.exe
+c:\users\gkucu\source\repos\Rand\Rand\bin\Debug\Rand.pdb
+c:\users\gkucu\source\repos\Rand\Rand\obj\Debug\Rand.csprojResolveAssemblyReference.cache
+c:\users\gkucu\source\repos\Rand\Rand\obj\Debug\Rand.csproj.CoreCompileInputs.cache
+c:\users\gkucu\source\repos\Rand\Rand\obj\Debug\Rand.exe
+c:\users\gkucu\source\repos\Rand\Rand\obj\Debug\Rand.pdb
