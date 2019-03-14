@@ -1,0 +1,10 @@
+C:\Users\Jellybeanci\source\repos\BitmapClass\BitmapClass\bin\Debug\BitmapClass.exe.config
+C:\Users\Jellybeanci\source\repos\BitmapClass\BitmapClass\bin\Debug\BitmapClass.exe
+C:\Users\Jellybeanci\source\repos\BitmapClass\BitmapClass\bin\Debug\BitmapClass.pdb
+C:\Users\Jellybeanci\source\repos\BitmapClass\BitmapClass\obj\Debug\BitmapClass.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\BitmapClass\BitmapClass\obj\Debug\BitmapClass.Form1.resources
+C:\Users\Jellybeanci\source\repos\BitmapClass\BitmapClass\obj\Debug\BitmapClass.Properties.Resources.resources
+C:\Users\Jellybeanci\source\repos\BitmapClass\BitmapClass\obj\Debug\BitmapClass.csproj.GenerateResource.cache
+C:\Users\Jellybeanci\source\repos\BitmapClass\BitmapClass\obj\Debug\BitmapClass.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\BitmapClass\BitmapClass\obj\Debug\BitmapClass.exe
+C:\Users\Jellybeanci\source\repos\BitmapClass\BitmapClass\obj\Debug\BitmapClass.pdb
