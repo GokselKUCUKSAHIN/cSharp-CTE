@@ -1,0 +1,7 @@
+C:\Users\Jellybeanci\source\repos\PiDay\PiDay\bin\Debug\PiDay.exe.config
+C:\Users\Jellybeanci\source\repos\PiDay\PiDay\bin\Debug\PiDay.exe
+C:\Users\Jellybeanci\source\repos\PiDay\PiDay\bin\Debug\PiDay.pdb
+C:\Users\Jellybeanci\source\repos\PiDay\PiDay\obj\Debug\PiDay.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\PiDay\PiDay\obj\Debug\PiDay.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\PiDay\PiDay\obj\Debug\PiDay.exe
+C:\Users\Jellybeanci\source\repos\PiDay\PiDay\obj\Debug\PiDay.pdb
