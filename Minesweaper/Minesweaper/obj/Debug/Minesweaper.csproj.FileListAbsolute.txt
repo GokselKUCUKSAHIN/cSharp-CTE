@@ -1,0 +1,10 @@
+C:\Users\Jellybeanci\source\repos\Minesweaper\Minesweaper\obj\Debug\Minesweaper.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\Minesweaper\Minesweaper\obj\Debug\Minesweaper.Form1.resources
+C:\Users\Jellybeanci\source\repos\Minesweaper\Minesweaper\obj\Debug\Minesweaper.Properties.Resources.resources
+C:\Users\Jellybeanci\source\repos\Minesweaper\Minesweaper\obj\Debug\Minesweaper.csproj.GenerateResource.cache
+C:\Users\Jellybeanci\source\repos\Minesweaper\Minesweaper\obj\Debug\Minesweaper.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\Minesweaper\Minesweaper\bin\Debug\Minesweaper.exe.config
+C:\Users\Jellybeanci\source\repos\Minesweaper\Minesweaper\bin\Debug\Minesweaper.exe
+C:\Users\Jellybeanci\source\repos\Minesweaper\Minesweaper\bin\Debug\Minesweaper.pdb
+C:\Users\Jellybeanci\source\repos\Minesweaper\Minesweaper\obj\Debug\Minesweaper.exe
+C:\Users\Jellybeanci\source\repos\Minesweaper\Minesweaper\obj\Debug\Minesweaper.pdb
