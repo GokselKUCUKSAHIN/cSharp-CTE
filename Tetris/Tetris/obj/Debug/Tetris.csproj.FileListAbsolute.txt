@@ -1,0 +1,14 @@
+c:\users\gkucu\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+c:\users\gkucu\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+c:\users\gkucu\source\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+c:\users\gkucu\source\repos\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+c:\users\gkucu\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+c:\users\gkucu\source\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+c:\users\gkucu\source\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\CTE\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\CTE\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\CTE\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\CTE\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\CTE\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\CTE\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\CTE\Tetris\Tetris\obj\Debug\Tetris.pdb
