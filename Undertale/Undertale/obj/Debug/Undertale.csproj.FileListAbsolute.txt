@@ -1,0 +1,7 @@
+C:\Users\Jellybeanci\source\repos\Undertale\Undertale\bin\Debug\Undertale.exe.config
+C:\Users\Jellybeanci\source\repos\Undertale\Undertale\bin\Debug\Undertale.exe
+C:\Users\Jellybeanci\source\repos\Undertale\Undertale\bin\Debug\Undertale.pdb
+C:\Users\Jellybeanci\source\repos\Undertale\Undertale\obj\Debug\Undertale.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\Undertale\Undertale\obj\Debug\Undertale.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\Undertale\Undertale\obj\Debug\Undertale.exe
+C:\Users\Jellybeanci\source\repos\Undertale\Undertale\obj\Debug\Undertale.pdb
