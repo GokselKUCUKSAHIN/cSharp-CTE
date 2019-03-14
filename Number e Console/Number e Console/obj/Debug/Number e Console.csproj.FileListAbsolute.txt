@@ -1,0 +1,7 @@
+c:\users\jellybeanci\source\repos\Number e Console\Number e Console\bin\Debug\Number e Console.exe.config
+c:\users\jellybeanci\source\repos\Number e Console\Number e Console\bin\Debug\Number e Console.exe
+c:\users\jellybeanci\source\repos\Number e Console\Number e Console\bin\Debug\Number e Console.pdb
+c:\users\jellybeanci\source\repos\Number e Console\Number e Console\obj\Debug\Number e Console.csprojAssemblyReference.cache
+c:\users\jellybeanci\source\repos\Number e Console\Number e Console\obj\Debug\Number e Console.csproj.CoreCompileInputs.cache
+c:\users\jellybeanci\source\repos\Number e Console\Number e Console\obj\Debug\Number e Console.exe
+c:\users\jellybeanci\source\repos\Number e Console\Number e Console\obj\Debug\Number e Console.pdb
