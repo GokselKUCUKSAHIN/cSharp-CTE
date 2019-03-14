@@ -1,0 +1,10 @@
+C:\Users\Jellybeanci\source\repos\WinClock\WinClock\bin\Debug\WinClock.exe.config
+C:\Users\Jellybeanci\source\repos\WinClock\WinClock\bin\Debug\WinClock.exe
+C:\Users\Jellybeanci\source\repos\WinClock\WinClock\bin\Debug\WinClock.pdb
+C:\Users\Jellybeanci\source\repos\WinClock\WinClock\obj\Debug\WinClock.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\WinClock\WinClock\obj\Debug\WinClock.Form1.resources
+C:\Users\Jellybeanci\source\repos\WinClock\WinClock\obj\Debug\WinClock.Properties.Resources.resources
+C:\Users\Jellybeanci\source\repos\WinClock\WinClock\obj\Debug\WinClock.csproj.GenerateResource.cache
+C:\Users\Jellybeanci\source\repos\WinClock\WinClock\obj\Debug\WinClock.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\WinClock\WinClock\obj\Debug\WinClock.exe
+C:\Users\Jellybeanci\source\repos\WinClock\WinClock\obj\Debug\WinClock.pdb
