@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Numlock20.exe" version="2.3.1.1" publicKeyToken="33a99d0feb6810c0" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Locked.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Numlock20" version="2.1.2.9" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Numlock20.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InputSimulator.dll" size="13824">
+      <assemblyIdentity name="InputSimulator" version="0.1.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Pd1Wg+/747DwxL0iZobuPJoh/rIwYAuwkjH+uic+FNs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Numlock20.exe" size="956408">
+      <assemblyIdentity name="Numlock20" version="2.1.2.9" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7CYYHBXlB9AM2h12rFhyO04R2V6iwIMmBAYpBNz5TQg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Locked.ico" size="168253">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mf7gCYy58xUazy4gpit5gb9LIcGxS5hA8OqTS+Ss2Ns=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Numlock20.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=JELLYBEANCINB\JellyBeanci" issuerKeyHash="86d74ba4345490a075429312cdec43055374cefb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>JjohxxMlvZ8d/ylFyLGH7nojLdb/mtaF57lc/t2X508=</DigestValue></Reference></SignedInfo><SignatureValue>Or6FmgOsHF8r1uG2VbfVQLNECztzt0QO2L1PRiBVCd3ahgOwyZ1SMgYdyu+zCNTgO1TV5yBzppKiIcOkwNxzaZu+QABRw4GS9ZyZS6mCyjMoSNySKXGOolM535fL0BfVmx2MlU6PJGVaLe8kYeyCuFUM4LF69gwehnhl884CuSo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>5RQs42Klrpon6HhUK90h5MQ5GG0+1kZIakK7N8l7o69VvX/cUXonBBXvel/2+fqTElpnJUSK/hChoYcIpPih31co3ubR8a3FcbpjtdS1gyBsv0Xlru2eghSjuGMlEsr5nO2NN714Pvn0bvBJgSAfywyNGRGEVwwYEGLF2FWqZSE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4fe797ddfe5cb9e785d69affd62d237aee87b1c84529ff1d9fbd2513c7213a26" Description="" Url=""><as:assemblyIdentity name="Numlock20.exe" version="2.3.1.1" publicKeyToken="33a99d0feb6810c0" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JELLYBEANCINB\JellyBeanci</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>aCSWgmqQbJv7nILzFvQoZR2ulLykZ9nLSD4BxWpkm/Q=</DigestValue></Reference></SignedInfo><SignatureValue>0ScSs0uJxZRkON96sjUgwCJdoI6oa5d4V6e7pKxOe1d7/ZzHy/r6CN3WGQMMN/FARfoBqWbMEl+YavpqdQuiGvHkO7GC8DjoTe+VCMQfCU/MDrh+DUDRcIi5d1B742qBdLLp7ieuGBi9DLO2o03KAXNE1dxut+ir/qwSyC7vfYc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5RQs42Klrpon6HhUK90h5MQ5GG0+1kZIakK7N8l7o69VvX/cUXonBBXvel/2+fqTElpnJUSK/hChoYcIpPih31co3ubR8a3FcbpjtdS1gyBsv0Xlru2eghSjuGMlEsr5nO2NN714Pvn0bvBJgSAfywyNGRGEVwwYEGLF2FWqZSE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB/TCCAWagAwIBAgIQcamQN3kclrJEkOZ+PlgZRTANBgkqhkiG9w0BAQsFADA9MTswOQYDVQQDHjIASgBFAEwATABZAEIARQBBAE4AQwBJAE4AQgBcAEoAZQBsAGwAeQBCAGUAYQBuAGMAaTAeFw0xODAyMjQwMjEyMzNaFw0xOTAyMjQwODEyMzNaMD0xOzA5BgNVBAMeMgBKAEUATABMAFkAQgBFAEEATgBDAEkATgBCAFwASgBlAGwAbAB5AEIAZQBhAG4AYwBpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDlFCzjYqWumifoeFQr3SHkxDkYbT7WRkhqQrs3yXujr1W9f9xReicEFe96X/b5+pMSWmclRIr+EKGhhwik+KHfVyje5tHxrcVxumO11LWDIGy/ReWu7Z6CFKO4YyUSyvmc7Y03vXg++fRu8EmBIB/LDI0ZEYRXDBgQYsXYVaplIQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBADND6G2Hd04mHSro97C/1813jKeWK4GobbfXesclhczlr16JVsDG6u20+IQZlPbdMXTbKOQxySN1fvvFllYKXA/im3sxqgB6OhzzqyCKffn8nyv5UjrAB8Gs++XP5Vmdfp37DvrMnMYsqQ+KRUqDzN3hPpMbeaCfeiAOgW7SXqvx</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
