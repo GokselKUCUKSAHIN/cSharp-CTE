@@ -1,0 +1,11 @@
+C:\Users\Jellybeanci\source\repos\BSOD\BSOD\bin\Debug\BSOD.exe.config
+C:\Users\Jellybeanci\source\repos\BSOD\BSOD\bin\Debug\BSOD.exe
+C:\Users\Jellybeanci\source\repos\BSOD\BSOD\bin\Debug\BSOD.pdb
+C:\Users\Jellybeanci\source\repos\BSOD\BSOD\obj\Debug\BSOD.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\BSOD\BSOD\obj\Debug\BSOD.Form1.resources
+C:\Users\Jellybeanci\source\repos\BSOD\BSOD\obj\Debug\BSOD.Properties.Resources.resources
+C:\Users\Jellybeanci\source\repos\BSOD\BSOD\obj\Debug\BSOD.csproj.GenerateResource.cache
+C:\Users\Jellybeanci\source\repos\BSOD\BSOD\obj\Debug\BSOD.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\BSOD\BSOD\obj\Debug\BSOD.exe
+C:\Users\Jellybeanci\source\repos\BSOD\BSOD\obj\Debug\BSOD.pdb
+C:\Users\Jellybeanci\source\repos\BSOD\BSOD\obj\Debug\BSOD.bsodform.resources
