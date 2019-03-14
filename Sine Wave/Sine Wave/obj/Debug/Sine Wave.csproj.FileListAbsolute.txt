@@ -1,0 +1,7 @@
+C:\Users\gkucu\source\repos\Sine Wave\Sine Wave\bin\Debug\Sine Wave.exe.config
+C:\Users\gkucu\source\repos\Sine Wave\Sine Wave\bin\Debug\Sine Wave.exe
+C:\Users\gkucu\source\repos\Sine Wave\Sine Wave\bin\Debug\Sine Wave.pdb
+C:\Users\gkucu\source\repos\Sine Wave\Sine Wave\obj\Debug\Sine Wave.csprojResolveAssemblyReference.cache
+C:\Users\gkucu\source\repos\Sine Wave\Sine Wave\obj\Debug\Sine Wave.csproj.CoreCompileInputs.cache
+C:\Users\gkucu\source\repos\Sine Wave\Sine Wave\obj\Debug\Sine Wave.exe
+C:\Users\gkucu\source\repos\Sine Wave\Sine Wave\obj\Debug\Sine Wave.pdb
