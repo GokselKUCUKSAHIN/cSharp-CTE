@@ -1,0 +1,7 @@
+C:\Users\Jellybeanci\source\repos\Leibniz Series Number Pi\Leibniz Series Number Pi\bin\Debug\Leibniz Series Number Pi.exe.config
+C:\Users\Jellybeanci\source\repos\Leibniz Series Number Pi\Leibniz Series Number Pi\bin\Debug\Leibniz Series Number Pi.exe
+C:\Users\Jellybeanci\source\repos\Leibniz Series Number Pi\Leibniz Series Number Pi\bin\Debug\Leibniz Series Number Pi.pdb
+C:\Users\Jellybeanci\source\repos\Leibniz Series Number Pi\Leibniz Series Number Pi\obj\Debug\Leibniz Series Number Pi.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\Leibniz Series Number Pi\Leibniz Series Number Pi\obj\Debug\Leibniz Series Number Pi.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\Leibniz Series Number Pi\Leibniz Series Number Pi\obj\Debug\Leibniz Series Number Pi.exe
+C:\Users\Jellybeanci\source\repos\Leibniz Series Number Pi\Leibniz Series Number Pi\obj\Debug\Leibniz Series Number Pi.pdb
