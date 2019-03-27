@@ -1,0 +1,10 @@
+C:\Users\Jellybeanci\source\repos\HexagonDrawing\HexagonDrawing\bin\Debug\HexagonDrawing.exe.config
+C:\Users\Jellybeanci\source\repos\HexagonDrawing\HexagonDrawing\bin\Debug\HexagonDrawing.exe
+C:\Users\Jellybeanci\source\repos\HexagonDrawing\HexagonDrawing\bin\Debug\HexagonDrawing.pdb
+C:\Users\Jellybeanci\source\repos\HexagonDrawing\HexagonDrawing\obj\Debug\HexagonDrawing.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\HexagonDrawing\HexagonDrawing\obj\Debug\HexagonDrawing.Form1.resources
+C:\Users\Jellybeanci\source\repos\HexagonDrawing\HexagonDrawing\obj\Debug\HexagonDrawing.Properties.Resources.resources
+C:\Users\Jellybeanci\source\repos\HexagonDrawing\HexagonDrawing\obj\Debug\HexagonDrawing.csproj.GenerateResource.cache
+C:\Users\Jellybeanci\source\repos\HexagonDrawing\HexagonDrawing\obj\Debug\HexagonDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\HexagonDrawing\HexagonDrawing\obj\Debug\HexagonDrawing.exe
+C:\Users\Jellybeanci\source\repos\HexagonDrawing\HexagonDrawing\obj\Debug\HexagonDrawing.pdb
