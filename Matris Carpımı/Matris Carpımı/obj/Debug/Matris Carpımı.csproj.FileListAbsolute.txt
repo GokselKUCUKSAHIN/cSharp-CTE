@@ -1,7 +1,0 @@
-C:\Users\Jellybeanci\source\repos\Matris Carpımı\Matris Carpımı\bin\Debug\Matris Carpımı.exe.config
-C:\Users\Jellybeanci\source\repos\Matris Carpımı\Matris Carpımı\bin\Debug\Matris Carpımı.exe
-C:\Users\Jellybeanci\source\repos\Matris Carpımı\Matris Carpımı\bin\Debug\Matris Carpımı.pdb
-C:\Users\Jellybeanci\source\repos\Matris Carpımı\Matris Carpımı\obj\Debug\Matris Carpımı.csprojAssemblyReference.cache
-C:\Users\Jellybeanci\source\repos\Matris Carpımı\Matris Carpımı\obj\Debug\Matris Carpımı.csproj.CoreCompileInputs.cache
-C:\Users\Jellybeanci\source\repos\Matris Carpımı\Matris Carpımı\obj\Debug\Matris Carpımı.exe
-C:\Users\Jellybeanci\source\repos\Matris Carpımı\Matris Carpımı\obj\Debug\Matris Carpımı.pdb
