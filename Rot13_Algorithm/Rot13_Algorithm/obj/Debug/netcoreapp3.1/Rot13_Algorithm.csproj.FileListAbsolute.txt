@@ -1,0 +1,11 @@
+/Users/jellybeanci/Projects/Rot13_Algorithm/Rot13_Algorithm/obj/Debug/netcoreapp3.1/Rot13_Algorithm.csprojAssemblyReference.cache
+/Users/jellybeanci/Projects/Rot13_Algorithm/Rot13_Algorithm/obj/Debug/netcoreapp3.1/Rot13_Algorithm.AssemblyInfoInputs.cache
+/Users/jellybeanci/Projects/Rot13_Algorithm/Rot13_Algorithm/obj/Debug/netcoreapp3.1/Rot13_Algorithm.AssemblyInfo.cs
+/Users/jellybeanci/Projects/Rot13_Algorithm/Rot13_Algorithm/bin/Debug/netcoreapp3.1/Rot13_Algorithm
+/Users/jellybeanci/Projects/Rot13_Algorithm/Rot13_Algorithm/bin/Debug/netcoreapp3.1/Rot13_Algorithm.deps.json
+/Users/jellybeanci/Projects/Rot13_Algorithm/Rot13_Algorithm/bin/Debug/netcoreapp3.1/Rot13_Algorithm.runtimeconfig.json
+/Users/jellybeanci/Projects/Rot13_Algorithm/Rot13_Algorithm/bin/Debug/netcoreapp3.1/Rot13_Algorithm.runtimeconfig.dev.json
+/Users/jellybeanci/Projects/Rot13_Algorithm/Rot13_Algorithm/bin/Debug/netcoreapp3.1/Rot13_Algorithm.dll
+/Users/jellybeanci/Projects/Rot13_Algorithm/Rot13_Algorithm/bin/Debug/netcoreapp3.1/Rot13_Algorithm.pdb
+/Users/jellybeanci/Projects/Rot13_Algorithm/Rot13_Algorithm/obj/Debug/netcoreapp3.1/Rot13_Algorithm.dll
+/Users/jellybeanci/Projects/Rot13_Algorithm/Rot13_Algorithm/obj/Debug/netcoreapp3.1/Rot13_Algorithm.pdb
